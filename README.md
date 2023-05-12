@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Norman</h1>
-<h3 align="center">A passionate developer from Germany who is keen for learning more and eyploring new things</h3>
+<h3 align="center">A passionate developer from Germany who is keen for learning more and exploring new things</h3>
 
 <br>
 
