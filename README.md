@@ -7,7 +7,7 @@ In my free time, I also enjoy staying active through sports and fitness activiti
 
 - 🔭 I’m currently working on a blockchain technology [Simple_BlockChain](https://github.com/Novakuso/Simple_BlockChain)
 
-- 🌱 I’m currently learning **optiizing my code structure and quality**
+- 🌱 I’m currently learning **optimizing my code structure and quality**
 
 - 📫 How to reach me **norman.kerscher@gmail.com**
 
