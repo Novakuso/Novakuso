@@ -1,5 +1,5 @@
 <h1 style="margin-bottom: 10px; font-weight: 600;" align="center">👨🏻‍💻 Norman Kerscher</h1>
-<h3 style="padding: 10px 10px;">A passionate developer from Germany. I'm currently studying computer science, but I've been learning programming and exploring various aspects of the tech world for quite some time now, and I'm excited to share my journey with you through this repository. 
+<h4 style="padding: 10px 10px;">A passionate developer from Germany. I'm currently studying computer science, but I've been learning programming and exploring various aspects of the tech world for quite some time now, and I'm excited to share my journey with you through this repository. 
 Here, you'll find my projects, thoughts, mistakes, solutions, and ideas related to programming and computer science in general. I hope to inspire fellow programmers and learners by documenting my successes and failures, as well as my approaches to problem-solving and creative thinking.
 I'm always eager to learn new things and explore different areas of computer science, so feel free to reach out to me with suggestions or ideas for collaboration. 
 In my free time, I also enjoy staying active through sports and fitness activities.</h3>
